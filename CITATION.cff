@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use these programs, please cite the accompanying book chapter and contact the author for the version associated with your analysis."
+title: "MATLAB Code for Stability Analysis of Distributed-Delay Systems"
+authors:
+  - family-names: "Castaño Hernández"
+    given-names: "Alejandro"
+type: software
+version: "0.1.0"
+date-released: 2026-11-06
